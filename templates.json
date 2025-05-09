@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Minimal Travel Instagram Post",
+    "description": "A clean, bold design for travel inspiration.",
+    "tags": ["travel", "minimal", "instagram", "vacation"]
+  },
+  {
+    "id": 2,
+    "title": "Elegant Wedding Invitation",
+    "description": "Soft, romantic colors perfect for wedding invites.",
+    "tags": ["wedding", "invitation", "romantic", "event"]
+  },
+  {
+    "id": 3,
+    "title": "Modern Tech Presentation",
+    "description": "Sleek slides for showcasing tech products or startups.",
+    "tags": ["technology", "startup", "presentation", "modern"]
+  },
+  {
+    "id": 4,
+    "title": "Healthy Food Poster",
+    "description": "Bright and clean layout for promoting healthy eating.",
+    "tags": ["food", "health", "poster", "organic"]
+  },
+  {
+    "id": 5,
+    "title": "Fitness Motivation Quote",
+    "description": "Bold typography for gym and fitness content.",
+    "tags": ["fitness", "gym", "quote", "bold"]
+  }
+]
